@@ -67,6 +67,15 @@
     
 }
 
+.nav-bar-items li:hover {
+    color:#1DB954;
+    transition: all 200ms ease;
+    
+} 
+
+
+
+
 #nav-bar .nav-bar-container ul li:nth-child(3) {
     border-right: 1px solid white;
     height: 5vh;
